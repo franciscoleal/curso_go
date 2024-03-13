@@ -1,0 +1,21 @@
+#  go mod tidy - remove todas as dependecias
+
+#  go build - gera o executável
+
+#  go run - executa 
+
+#  go install - gera o executavel na raiz do projeto
+
+#  go mod init - cria o modulo para que possa usar varios pacotes ao mesmo tempo
+
+#  go get - instala um pacote externo
+
+#  go env GOROOT - C:\Program Files\Go - local onde o go foi instalado, onde fica o compilador
+
+#  go env GOPATH - C:\Users\fjlea\go - local onde ficará seus projetos (workspace)
+
+#  godoc -http=:6060 - abre a doc do go offline basta acessar no navegador localhost:6060
+
+# go env - informações do ambiente
+
+# go vet file.go - aponta para o erro no arquivo
