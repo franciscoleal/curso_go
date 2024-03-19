@@ -19,3 +19,5 @@
 # go env - informações do ambiente
 
 # go vet file.go - aponta para o erro no arquivo
+
+# executar o main em um arquivo separado com o comando -   go run *.go
